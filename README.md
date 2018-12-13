@@ -56,24 +56,17 @@ Test dataset contains 233 599 instances and has missing values.
 #### Features description:
 
 1. **<font>User_ID:</font>** customer's identifier
-2. **<font>Product_ID:</font>** product's identifier
+2. **<font>Product_ID:</font>** product identifier
 3. **<font>Gender:</font>** sex of the customer
 4. **<font>Age:</font>** age of the customer
-5. **<font>Occupation:</font>** occupation of the customer (numbers from 0 to
-20)
-6. **<font>City_Category:</font>** category of the city (A, B,
-C)
-7. **<font>Stay_In_Current_City_Years:</font>** number of years
-customer stay in current city
-8. **<font>Marital_Status:</font>**
-Marital status
-9. **<font>Product_Category_1:</font>** Product
-category
-10. **<font>Product_Category_2:</font>** Product may
-belongs to other category also
-11. **<font>Product_Category_3:</font>** Product may belongs to other category
-also
-12. **<font>Purchase:</font>** Purchase amount in dollars
+5. **<font>Occupation:</font>** occupation of the customer (numbers from 0 to 20)
+6. **<font>City_Category:</font>** category of the city (A, B, C)
+7. **<font>Stay_In_Current_City_Years:</font>** number of years customer stay in current city
+8. **<font>Marital_Status:</font>** marital status
+9. **<font>Product_Category_1:</font>** product category
+10. **<font>Product_Category_2:</font>** product may belong to another category also
+11. **<font>Product_Category_3:</font>** product may belong to another category also
+12. **<font>Purchase:</font>** purchase amount in dollars
 
 ### List of tasks
 
