@@ -66,7 +66,7 @@ Test dataset contains 233 599 instances and has missing values.
 9. **<font>Product_Category_1:</font>** product category
 10. **<font>Product_Category_2:</font>** product may belong to another category also
 11. **<font>Product_Category_3:</font>** product may belong to another category also
-12. **<font>Purchase:</font>** purchase amount in dollars
+12. **<font>Purchase:</font>** amount of the purchase in dollars
 
 ### List of tasks
 
