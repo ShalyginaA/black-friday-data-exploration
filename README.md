@@ -43,7 +43,7 @@ provided. Model for predicting the amount of purchase was created.
 
 #### 1. Training data
 
-Training data is a dataset of 550068 observations about Black Friday, contains
+Training data is a dataset of 550 068 observations about Black Friday, contains
 different kinds of variables either numerical or categorical. Also contains
 missing values.
 
