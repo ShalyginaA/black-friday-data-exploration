@@ -70,12 +70,10 @@ Test dataset contains 233 599 instances and has missing values.
 
 ### List of tasks
 
-1. Data exploration, visualizations (6 hours)
+1. Data exploration, visualizations (3 hours)
 2. Studying customer purchase
-behaviour, making visualizations (8 hours)
-3. Regression problem: model
-selection, trying different models (8 hours)
-4. Tuning chosen models (6 hours)
+behaviour, making visualizations (6 hours)
+3. Regression problem: data preparation, models selection (6 hours)
+4. Tuning chosen models (9 hours)
 5. Analysing results (4 hours)
-6. Poster creation, poster session preparation (6
-hours)
+6. Poster creation, poster session preparation (7 hours)
